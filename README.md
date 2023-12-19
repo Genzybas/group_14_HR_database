@@ -16,7 +16,7 @@ FIRST Download
 
 8. Create a database with name hrsystemci
 
-6. Import sales_inventory_db.sql file(given inside the zip package in SQL file folder)
+6. Import hrsystemci.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/group_14_HR_database
 
